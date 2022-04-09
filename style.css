@@ -1,0 +1,45 @@
+html body {
+	background-color: #0aa8d717;
+}
+
+
+header {
+	height: 15vh;
+
+}
+
+.menu {
+	justify-content: space-around;
+	margin: 0;
+	padding: 0;
+	background-color: #ccd5ff47; 
+}  
+
+.itens-menu {
+	
+	width: 80%;
+}
+
+.conteudo {
+	padding: 5vh;
+}
+
+.tab-content> .active {
+	display: flex;
+	flex-direction: column;
+}
+
+li {
+	cursor: pointer;
+}
+
+
+.bg-orange {background-color: #ffa500c9;}
+
+.bg-red {background-color: #dc3545d4;}
+
+.bg-yellow {background-color: #ffc107a1;}
+
+.bg-green {background-color: #28a745c7;}
+
+.bg-blue {background-color: #17a2b8a1;}
